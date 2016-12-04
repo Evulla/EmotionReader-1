@@ -2,6 +2,12 @@
 Hackaton Hack-The-Brain project of reading emotion in real time with Biosemi ActiveTwo EEG.
 Emotion recognition could be done from the text, speech, facial expression or gesture. In this project, we concentrate on recognition of “inner” emotions from EEG signals. We propose real time fractal dimension based algorithm of quantification of basic emotion using valence emotion model. The subject emotions are recognized and visualized in real time on avatar’s head through LED diodes which simulate every single electrode.
 
+## Who are we?
++We are three enthusiasts people. 
++Eva Matuchová is psychology student, she cared about "paperwork", food, drinks and everything what wasn’t connected with programming.
++Michael Tesař is also psychology student, developer for EEG and fMRI and OpenSesame enthusiast. He created desing and brought it to live. 
++Michal Lenc is creative and artistic part of our team. He created LED diode belt and he brought it to live.
+
 ## Why we choose this project...
 Our project could by used at many cases of medical field, professional or every day life. Generally BCI could be used for pilots or drivers and it could improve their professional skills. Avoid and prevent losing focus by visualizing valence and arousal during their work performance. It could be also useful as some kind of feedback for gaming, music, interactive arts, relaxation or books to show valence reactions to those stimuli in real time. In the medical field it could be used in psychotherapy or shows pathology at perception, processing information, recognition and reaction to positive or negative (pleasant, unpleasant) visual stimuli.
 
